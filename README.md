@@ -1,8 +1,8 @@
-<h4 align="left">Hi 👋 What's up?<br><br>My name is Luan and I'm Student, from LionsDev<br><br>About me<br><br>✨ Creating and learning<br>📚 I'm currently learning: Express and React<br><br>I code with</h4>
+<h4 align="center">Hi 👋 What's up?<br><br>My name is Luan and I'm Student, from LionsDev<br><br>About me<br><br>✨ Creating and learning<br>📚 I'm currently learning: Express and React<br><br>I code with</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
