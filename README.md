@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating and learning<br>📚 I'm currently learning: Vue.js, AXIOS, Chart.js</p>
+<p align="left">✨ Creating and learning<br>📚 I'm currently learning: React, Next.js</p>
 
 ###
 
