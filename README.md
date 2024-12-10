@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luan and I'm Student, from LionsDev</p>
+<p align="left">My name is Luan and I'm Student of Software Engenering Graduation</p>
 
 ###
 
