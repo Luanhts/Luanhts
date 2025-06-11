@@ -45,9 +45,3 @@
 
 ---
 
-<h2 align="left">📫 Let's Connect</h2>
-
-<p align="left">
-🔍 I'm currently open to full-time junior developer opportunities — remote or on-site (willing to travel).<br>
-Feel free to connect with me here on GitHub or reach out on LinkedIn!
-</p>
