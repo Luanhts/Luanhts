@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
