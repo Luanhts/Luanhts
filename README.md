@@ -8,7 +8,7 @@
 
 <p align="left">
 🎓 Currently in the 5th semester of my Software Engineering degree<br>
-👨‍💻 Working part-time as a web developer<br>
+👨‍💻 I'm a intern frontend developer in Sicredi<br>
 📚 Learning and growing in: <strong>Angular</strong> and <strong>TypeScript</strong><br>
 ✨ Always exploring, creating, and improving!
 </p>
