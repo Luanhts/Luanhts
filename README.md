@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
 
 ---
