@@ -37,13 +37,5 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
 
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luanhts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Luanhts&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true" height="150" />
-</div>
 
 
