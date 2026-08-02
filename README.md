@@ -17,10 +17,21 @@
 
 ### 🛠️ Tech Stack
 
+#### 💻 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,js,react,vue,html,css" alt="Frontend Stack" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,c,py,php" alt="Backend & Languages" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,gitlab" alt="Tools & Styling" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,js,react,vue,html,css" alt="Frontend" />
+</div>
+
+<br />
+
+#### ⚙️ Backend & Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,c,py,php" alt="Backend and Languages" />
+</div>
+
+<br />
+
+#### 🎨 Styling, UI & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,gitlab" alt="Tools and Styling" />
 </div>
