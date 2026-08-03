@@ -33,5 +33,5 @@
 
 #### 🎨 Styling, UI & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,gitlab" alt="Tools and Styling" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,github,gitlab" alt="Tools and Styling" />
 </div>
