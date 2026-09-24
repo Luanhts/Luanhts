@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **Education:** Currently in the 5th semester of my Software Engineering degree
+- 🎓 **Education:** Currently in the 6th semester of my Software Engineering degree
 - 👨‍💻 **Current Role:** Frontend Development Intern at Sicredi
 - 📚 **Current Focus:** Deepening knowledge in **Angular** and **TypeScript**
 - ✨ Always exploring, creating, and improving!
