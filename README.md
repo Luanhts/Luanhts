@@ -19,7 +19,7 @@
 
 #### 💻 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,js,react,vue,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,js,html,css" alt="Frontend" />
 </div>
 
 <br />
